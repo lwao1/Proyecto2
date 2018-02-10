@@ -1,0 +1,50 @@
+body{
+  font-size: 30px;
+  font-family: Arial, cursive;
+}
+.pacifico{
+  font-family: 'pacifico'
+}
+.title{
+  font-size: 3.5em;
+  margin-top: 0;
+}
+
+.main-header{
+  background-color:#33451E;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+.nav-link{
+  color:white;
+  margin-right:4px;
+}
+
+.text-center{
+  text-align:center;
+}
+.red-text{
+  color:red
+}
+
+.main-container{
+  min-height: 100vh;
+}
+
+.product img{
+  width: 150px;
+}
+.product h3{
+  font-size: 1.7em;
+  margin-top:5px;
+  margin-bottom: 5px;
+}
+
+.card{
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.24);
+}
